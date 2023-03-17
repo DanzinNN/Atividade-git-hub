@@ -14,6 +14,6 @@ void main(){
     lista.add(i);
     lista.sort();
   }
-lista.removeRange(4, 5);
+lista.removeAt(4);
 print(lista);
 }
